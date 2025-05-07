@@ -28,8 +28,8 @@ A simple Rails 8.0.2 API-only application to manage tasks using PostgreSQL.
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/task_api.git
-   cd task_api
+   git clone https://github.com/yourusername/tasks_api.git
+   cd tasks_api
 
 ## Install dependencies
 CORS is enabled via rack-cors for all origins in development.
